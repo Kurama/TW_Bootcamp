@@ -1,0 +1,12 @@
+/Users/taj/Documents/Bootcamp/CSharp/src/Day5_Inheritance/obj/Debug/netcoreapp3.1/Day5_Inheritance.csprojAssemblyReference.cache
+/Users/taj/Documents/Bootcamp/CSharp/src/Day5_Inheritance/obj/Debug/netcoreapp3.1/Day5_Inheritance.csproj.CoreCompileInputs.cache
+/Users/taj/Documents/Bootcamp/CSharp/src/Day5_Inheritance/obj/Debug/netcoreapp3.1/Day5_Inheritance.AssemblyInfoInputs.cache
+/Users/taj/Documents/Bootcamp/CSharp/src/Day5_Inheritance/obj/Debug/netcoreapp3.1/Day5_Inheritance.AssemblyInfo.cs
+/Users/taj/Documents/Bootcamp/CSharp/src/Day5_Inheritance/bin/Debug/netcoreapp3.1/Day5_Inheritance.deps.json
+/Users/taj/Documents/Bootcamp/CSharp/src/Day5_Inheritance/bin/Debug/netcoreapp3.1/Day5_Inheritance.runtimeconfig.json
+/Users/taj/Documents/Bootcamp/CSharp/src/Day5_Inheritance/bin/Debug/netcoreapp3.1/Day5_Inheritance.runtimeconfig.dev.json
+/Users/taj/Documents/Bootcamp/CSharp/src/Day5_Inheritance/bin/Debug/netcoreapp3.1/Day5_Inheritance.dll
+/Users/taj/Documents/Bootcamp/CSharp/src/Day5_Inheritance/bin/Debug/netcoreapp3.1/Day5_Inheritance.pdb
+/Users/taj/Documents/Bootcamp/CSharp/src/Day5_Inheritance/obj/Debug/netcoreapp3.1/Day5_Inheritance.dll
+/Users/taj/Documents/Bootcamp/CSharp/src/Day5_Inheritance/obj/Debug/netcoreapp3.1/Day5_Inheritance.pdb
+/Users/taj/Documents/Bootcamp/CSharp/src/Day5_Inheritance/obj/Debug/netcoreapp3.1/Day5_Inheritance.genruntimeconfig.cache

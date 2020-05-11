@@ -1,0 +1,12 @@
+/Users/taj/Documents/Bootcamp/CSharp/src/Day3_Namespaces/obj/Debug/netcoreapp3.1/Day3_Namespaces.csprojAssemblyReference.cache
+/Users/taj/Documents/Bootcamp/CSharp/src/Day3_Namespaces/obj/Debug/netcoreapp3.1/Day3_Namespaces.csproj.CoreCompileInputs.cache
+/Users/taj/Documents/Bootcamp/CSharp/src/Day3_Namespaces/obj/Debug/netcoreapp3.1/Day3_Namespaces.AssemblyInfoInputs.cache
+/Users/taj/Documents/Bootcamp/CSharp/src/Day3_Namespaces/obj/Debug/netcoreapp3.1/Day3_Namespaces.AssemblyInfo.cs
+/Users/taj/Documents/Bootcamp/CSharp/src/Day3_Namespaces/bin/Debug/netcoreapp3.1/Day3_Namespaces.deps.json
+/Users/taj/Documents/Bootcamp/CSharp/src/Day3_Namespaces/bin/Debug/netcoreapp3.1/Day3_Namespaces.runtimeconfig.json
+/Users/taj/Documents/Bootcamp/CSharp/src/Day3_Namespaces/bin/Debug/netcoreapp3.1/Day3_Namespaces.runtimeconfig.dev.json
+/Users/taj/Documents/Bootcamp/CSharp/src/Day3_Namespaces/bin/Debug/netcoreapp3.1/Day3_Namespaces.dll
+/Users/taj/Documents/Bootcamp/CSharp/src/Day3_Namespaces/bin/Debug/netcoreapp3.1/Day3_Namespaces.pdb
+/Users/taj/Documents/Bootcamp/CSharp/src/Day3_Namespaces/obj/Debug/netcoreapp3.1/Day3_Namespaces.dll
+/Users/taj/Documents/Bootcamp/CSharp/src/Day3_Namespaces/obj/Debug/netcoreapp3.1/Day3_Namespaces.pdb
+/Users/taj/Documents/Bootcamp/CSharp/src/Day3_Namespaces/obj/Debug/netcoreapp3.1/Day3_Namespaces.genruntimeconfig.cache

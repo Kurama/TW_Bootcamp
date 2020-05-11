@@ -1,0 +1,12 @@
+/Users/taj/Documents/Bootcamp/CSharp/src/Day8_Generics/bin/Debug/netcoreapp3.1/Day8_Generics.deps.json
+/Users/taj/Documents/Bootcamp/CSharp/src/Day8_Generics/bin/Debug/netcoreapp3.1/Day8_Generics.runtimeconfig.json
+/Users/taj/Documents/Bootcamp/CSharp/src/Day8_Generics/bin/Debug/netcoreapp3.1/Day8_Generics.runtimeconfig.dev.json
+/Users/taj/Documents/Bootcamp/CSharp/src/Day8_Generics/bin/Debug/netcoreapp3.1/Day8_Generics.dll
+/Users/taj/Documents/Bootcamp/CSharp/src/Day8_Generics/bin/Debug/netcoreapp3.1/Day8_Generics.pdb
+/Users/taj/Documents/Bootcamp/CSharp/src/Day8_Generics/obj/Debug/netcoreapp3.1/Day8_Generics.csprojAssemblyReference.cache
+/Users/taj/Documents/Bootcamp/CSharp/src/Day8_Generics/obj/Debug/netcoreapp3.1/Day8_Generics.csproj.CoreCompileInputs.cache
+/Users/taj/Documents/Bootcamp/CSharp/src/Day8_Generics/obj/Debug/netcoreapp3.1/Day8_Generics.AssemblyInfoInputs.cache
+/Users/taj/Documents/Bootcamp/CSharp/src/Day8_Generics/obj/Debug/netcoreapp3.1/Day8_Generics.AssemblyInfo.cs
+/Users/taj/Documents/Bootcamp/CSharp/src/Day8_Generics/obj/Debug/netcoreapp3.1/Day8_Generics.dll
+/Users/taj/Documents/Bootcamp/CSharp/src/Day8_Generics/obj/Debug/netcoreapp3.1/Day8_Generics.pdb
+/Users/taj/Documents/Bootcamp/CSharp/src/Day8_Generics/obj/Debug/netcoreapp3.1/Day8_Generics.genruntimeconfig.cache

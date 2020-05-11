@@ -1,0 +1,12 @@
+/Users/taj/Documents/Bootcamp/CSharp/src/Day7_Collections/bin/Debug/netcoreapp3.1/Day7_Collections.deps.json
+/Users/taj/Documents/Bootcamp/CSharp/src/Day7_Collections/bin/Debug/netcoreapp3.1/Day7_Collections.runtimeconfig.json
+/Users/taj/Documents/Bootcamp/CSharp/src/Day7_Collections/bin/Debug/netcoreapp3.1/Day7_Collections.runtimeconfig.dev.json
+/Users/taj/Documents/Bootcamp/CSharp/src/Day7_Collections/bin/Debug/netcoreapp3.1/Day7_Collections.dll
+/Users/taj/Documents/Bootcamp/CSharp/src/Day7_Collections/bin/Debug/netcoreapp3.1/Day7_Collections.pdb
+/Users/taj/Documents/Bootcamp/CSharp/src/Day7_Collections/obj/Debug/netcoreapp3.1/Day7_Collections.csprojAssemblyReference.cache
+/Users/taj/Documents/Bootcamp/CSharp/src/Day7_Collections/obj/Debug/netcoreapp3.1/Day7_Collections.csproj.CoreCompileInputs.cache
+/Users/taj/Documents/Bootcamp/CSharp/src/Day7_Collections/obj/Debug/netcoreapp3.1/Day7_Collections.AssemblyInfoInputs.cache
+/Users/taj/Documents/Bootcamp/CSharp/src/Day7_Collections/obj/Debug/netcoreapp3.1/Day7_Collections.AssemblyInfo.cs
+/Users/taj/Documents/Bootcamp/CSharp/src/Day7_Collections/obj/Debug/netcoreapp3.1/Day7_Collections.dll
+/Users/taj/Documents/Bootcamp/CSharp/src/Day7_Collections/obj/Debug/netcoreapp3.1/Day7_Collections.pdb
+/Users/taj/Documents/Bootcamp/CSharp/src/Day7_Collections/obj/Debug/netcoreapp3.1/Day7_Collections.genruntimeconfig.cache

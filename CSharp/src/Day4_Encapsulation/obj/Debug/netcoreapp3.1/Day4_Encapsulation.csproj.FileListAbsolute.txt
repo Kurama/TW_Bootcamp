@@ -1,0 +1,12 @@
+/Users/taj/Documents/Bootcamp/CSharp/src/Day4_Encapsulation/bin/Debug/netcoreapp3.1/Day4_Encapsulation.deps.json
+/Users/taj/Documents/Bootcamp/CSharp/src/Day4_Encapsulation/bin/Debug/netcoreapp3.1/Day4_Encapsulation.runtimeconfig.json
+/Users/taj/Documents/Bootcamp/CSharp/src/Day4_Encapsulation/bin/Debug/netcoreapp3.1/Day4_Encapsulation.runtimeconfig.dev.json
+/Users/taj/Documents/Bootcamp/CSharp/src/Day4_Encapsulation/bin/Debug/netcoreapp3.1/Day4_Encapsulation.dll
+/Users/taj/Documents/Bootcamp/CSharp/src/Day4_Encapsulation/bin/Debug/netcoreapp3.1/Day4_Encapsulation.pdb
+/Users/taj/Documents/Bootcamp/CSharp/src/Day4_Encapsulation/obj/Debug/netcoreapp3.1/Day4_Encapsulation.csprojAssemblyReference.cache
+/Users/taj/Documents/Bootcamp/CSharp/src/Day4_Encapsulation/obj/Debug/netcoreapp3.1/Day4_Encapsulation.csproj.CoreCompileInputs.cache
+/Users/taj/Documents/Bootcamp/CSharp/src/Day4_Encapsulation/obj/Debug/netcoreapp3.1/Day4_Encapsulation.AssemblyInfoInputs.cache
+/Users/taj/Documents/Bootcamp/CSharp/src/Day4_Encapsulation/obj/Debug/netcoreapp3.1/Day4_Encapsulation.AssemblyInfo.cs
+/Users/taj/Documents/Bootcamp/CSharp/src/Day4_Encapsulation/obj/Debug/netcoreapp3.1/Day4_Encapsulation.dll
+/Users/taj/Documents/Bootcamp/CSharp/src/Day4_Encapsulation/obj/Debug/netcoreapp3.1/Day4_Encapsulation.pdb
+/Users/taj/Documents/Bootcamp/CSharp/src/Day4_Encapsulation/obj/Debug/netcoreapp3.1/Day4_Encapsulation.genruntimeconfig.cache

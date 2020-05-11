@@ -1,0 +1,13 @@
+/Users/taj/RiderProjects/RestSharpDemo/RestSharpDemo/bin/Debug/RestSharpDemo.dll
+/Users/taj/RiderProjects/RestSharpDemo/RestSharpDemo/bin/Debug/RestSharpDemo.pdb
+/Users/taj/RiderProjects/RestSharpDemo/RestSharpDemo/bin/Debug/Newtonsoft.Json.dll
+/Users/taj/RiderProjects/RestSharpDemo/RestSharpDemo/bin/Debug/nunit.framework.dll
+/Users/taj/RiderProjects/RestSharpDemo/RestSharpDemo/bin/Debug/RestSharp.dll
+/Users/taj/RiderProjects/RestSharpDemo/RestSharpDemo/bin/Debug/Newtonsoft.Json.xml
+/Users/taj/RiderProjects/RestSharpDemo/RestSharpDemo/bin/Debug/RestSharp.xml
+/Users/taj/RiderProjects/RestSharpDemo/RestSharpDemo/bin/Debug/nunit.framework.xml
+/Users/taj/RiderProjects/RestSharpDemo/RestSharpDemo/obj/Debug/RestSharpDemo.csprojAssemblyReference.cache
+/Users/taj/RiderProjects/RestSharpDemo/RestSharpDemo/obj/Debug/RestSharpDemo.csproj.CopyComplete
+/Users/taj/RiderProjects/RestSharpDemo/RestSharpDemo/obj/Debug/RestSharpDemo.dll
+/Users/taj/RiderProjects/RestSharpDemo/RestSharpDemo/obj/Debug/RestSharpDemo.pdb
+/Users/taj/RiderProjects/RestSharpDemo/RestSharpDemo/bin/Debug/toJSON.dll

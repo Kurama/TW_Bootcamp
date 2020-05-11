@@ -1,0 +1,12 @@
+/Users/taj/Documents/Bootcamp/CSharp/src/Day10_AsyncAwait/bin/Debug/netcoreapp3.1/Day10_AsyncAwait.deps.json
+/Users/taj/Documents/Bootcamp/CSharp/src/Day10_AsyncAwait/bin/Debug/netcoreapp3.1/Day10_AsyncAwait.runtimeconfig.json
+/Users/taj/Documents/Bootcamp/CSharp/src/Day10_AsyncAwait/bin/Debug/netcoreapp3.1/Day10_AsyncAwait.runtimeconfig.dev.json
+/Users/taj/Documents/Bootcamp/CSharp/src/Day10_AsyncAwait/bin/Debug/netcoreapp3.1/Day10_AsyncAwait.dll
+/Users/taj/Documents/Bootcamp/CSharp/src/Day10_AsyncAwait/bin/Debug/netcoreapp3.1/Day10_AsyncAwait.pdb
+/Users/taj/Documents/Bootcamp/CSharp/src/Day10_AsyncAwait/obj/Debug/netcoreapp3.1/Day10_AsyncAwait.csprojAssemblyReference.cache
+/Users/taj/Documents/Bootcamp/CSharp/src/Day10_AsyncAwait/obj/Debug/netcoreapp3.1/Day10_AsyncAwait.csproj.CoreCompileInputs.cache
+/Users/taj/Documents/Bootcamp/CSharp/src/Day10_AsyncAwait/obj/Debug/netcoreapp3.1/Day10_AsyncAwait.AssemblyInfoInputs.cache
+/Users/taj/Documents/Bootcamp/CSharp/src/Day10_AsyncAwait/obj/Debug/netcoreapp3.1/Day10_AsyncAwait.AssemblyInfo.cs
+/Users/taj/Documents/Bootcamp/CSharp/src/Day10_AsyncAwait/obj/Debug/netcoreapp3.1/Day10_AsyncAwait.dll
+/Users/taj/Documents/Bootcamp/CSharp/src/Day10_AsyncAwait/obj/Debug/netcoreapp3.1/Day10_AsyncAwait.pdb
+/Users/taj/Documents/Bootcamp/CSharp/src/Day10_AsyncAwait/obj/Debug/netcoreapp3.1/Day10_AsyncAwait.genruntimeconfig.cache

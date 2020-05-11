@@ -1,0 +1,12 @@
+/Users/taj/Documents/Bootcamp/CSharp/src/Day2_ObjAndClasses/bin/Debug/netcoreapp3.1/Day2_ObjAndClasses.deps.json
+/Users/taj/Documents/Bootcamp/CSharp/src/Day2_ObjAndClasses/bin/Debug/netcoreapp3.1/Day2_ObjAndClasses.runtimeconfig.json
+/Users/taj/Documents/Bootcamp/CSharp/src/Day2_ObjAndClasses/bin/Debug/netcoreapp3.1/Day2_ObjAndClasses.runtimeconfig.dev.json
+/Users/taj/Documents/Bootcamp/CSharp/src/Day2_ObjAndClasses/bin/Debug/netcoreapp3.1/Day2_ObjAndClasses.dll
+/Users/taj/Documents/Bootcamp/CSharp/src/Day2_ObjAndClasses/bin/Debug/netcoreapp3.1/Day2_ObjAndClasses.pdb
+/Users/taj/Documents/Bootcamp/CSharp/src/Day2_ObjAndClasses/obj/Debug/netcoreapp3.1/Day2_ObjAndClasses.csprojAssemblyReference.cache
+/Users/taj/Documents/Bootcamp/CSharp/src/Day2_ObjAndClasses/obj/Debug/netcoreapp3.1/Day2_ObjAndClasses.csproj.CoreCompileInputs.cache
+/Users/taj/Documents/Bootcamp/CSharp/src/Day2_ObjAndClasses/obj/Debug/netcoreapp3.1/Day2_ObjAndClasses.AssemblyInfoInputs.cache
+/Users/taj/Documents/Bootcamp/CSharp/src/Day2_ObjAndClasses/obj/Debug/netcoreapp3.1/Day2_ObjAndClasses.AssemblyInfo.cs
+/Users/taj/Documents/Bootcamp/CSharp/src/Day2_ObjAndClasses/obj/Debug/netcoreapp3.1/Day2_ObjAndClasses.dll
+/Users/taj/Documents/Bootcamp/CSharp/src/Day2_ObjAndClasses/obj/Debug/netcoreapp3.1/Day2_ObjAndClasses.pdb
+/Users/taj/Documents/Bootcamp/CSharp/src/Day2_ObjAndClasses/obj/Debug/netcoreapp3.1/Day2_ObjAndClasses.genruntimeconfig.cache

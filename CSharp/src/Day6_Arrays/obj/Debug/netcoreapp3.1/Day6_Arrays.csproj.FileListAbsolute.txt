@@ -1,0 +1,12 @@
+/Users/taj/Documents/Bootcamp/CSharp/src/Day6_Arrays/bin/Debug/netcoreapp3.1/Day6_Arrays.deps.json
+/Users/taj/Documents/Bootcamp/CSharp/src/Day6_Arrays/bin/Debug/netcoreapp3.1/Day6_Arrays.runtimeconfig.json
+/Users/taj/Documents/Bootcamp/CSharp/src/Day6_Arrays/bin/Debug/netcoreapp3.1/Day6_Arrays.runtimeconfig.dev.json
+/Users/taj/Documents/Bootcamp/CSharp/src/Day6_Arrays/bin/Debug/netcoreapp3.1/Day6_Arrays.dll
+/Users/taj/Documents/Bootcamp/CSharp/src/Day6_Arrays/bin/Debug/netcoreapp3.1/Day6_Arrays.pdb
+/Users/taj/Documents/Bootcamp/CSharp/src/Day6_Arrays/obj/Debug/netcoreapp3.1/Day6_Arrays.csprojAssemblyReference.cache
+/Users/taj/Documents/Bootcamp/CSharp/src/Day6_Arrays/obj/Debug/netcoreapp3.1/Day6_Arrays.csproj.CoreCompileInputs.cache
+/Users/taj/Documents/Bootcamp/CSharp/src/Day6_Arrays/obj/Debug/netcoreapp3.1/Day6_Arrays.AssemblyInfoInputs.cache
+/Users/taj/Documents/Bootcamp/CSharp/src/Day6_Arrays/obj/Debug/netcoreapp3.1/Day6_Arrays.AssemblyInfo.cs
+/Users/taj/Documents/Bootcamp/CSharp/src/Day6_Arrays/obj/Debug/netcoreapp3.1/Day6_Arrays.dll
+/Users/taj/Documents/Bootcamp/CSharp/src/Day6_Arrays/obj/Debug/netcoreapp3.1/Day6_Arrays.pdb
+/Users/taj/Documents/Bootcamp/CSharp/src/Day6_Arrays/obj/Debug/netcoreapp3.1/Day6_Arrays.genruntimeconfig.cache

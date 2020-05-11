@@ -1,0 +1,12 @@
+/Users/taj/Documents/Bootcamp/CSharp/src/Day1_MyFirstProject/bin/Debug/netcoreapp3.1/Day1_MyFirstProject.deps.json
+/Users/taj/Documents/Bootcamp/CSharp/src/Day1_MyFirstProject/bin/Debug/netcoreapp3.1/Day1_MyFirstProject.runtimeconfig.json
+/Users/taj/Documents/Bootcamp/CSharp/src/Day1_MyFirstProject/bin/Debug/netcoreapp3.1/Day1_MyFirstProject.runtimeconfig.dev.json
+/Users/taj/Documents/Bootcamp/CSharp/src/Day1_MyFirstProject/bin/Debug/netcoreapp3.1/Day1_MyFirstProject.dll
+/Users/taj/Documents/Bootcamp/CSharp/src/Day1_MyFirstProject/bin/Debug/netcoreapp3.1/Day1_MyFirstProject.pdb
+/Users/taj/Documents/Bootcamp/CSharp/src/Day1_MyFirstProject/obj/Debug/netcoreapp3.1/Day1_MyFirstProject.csprojAssemblyReference.cache
+/Users/taj/Documents/Bootcamp/CSharp/src/Day1_MyFirstProject/obj/Debug/netcoreapp3.1/Day1_MyFirstProject.csproj.CoreCompileInputs.cache
+/Users/taj/Documents/Bootcamp/CSharp/src/Day1_MyFirstProject/obj/Debug/netcoreapp3.1/Day1_MyFirstProject.AssemblyInfoInputs.cache
+/Users/taj/Documents/Bootcamp/CSharp/src/Day1_MyFirstProject/obj/Debug/netcoreapp3.1/Day1_MyFirstProject.AssemblyInfo.cs
+/Users/taj/Documents/Bootcamp/CSharp/src/Day1_MyFirstProject/obj/Debug/netcoreapp3.1/Day1_MyFirstProject.dll
+/Users/taj/Documents/Bootcamp/CSharp/src/Day1_MyFirstProject/obj/Debug/netcoreapp3.1/Day1_MyFirstProject.pdb
+/Users/taj/Documents/Bootcamp/CSharp/src/Day1_MyFirstProject/obj/Debug/netcoreapp3.1/Day1_MyFirstProject.genruntimeconfig.cache

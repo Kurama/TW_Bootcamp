@@ -1,0 +1,12 @@
+/Users/taj/Documents/Bootcamp/CSharp/src/Day9_Serialization/bin/Debug/netcoreapp3.1/Day9_Serialization.deps.json
+/Users/taj/Documents/Bootcamp/CSharp/src/Day9_Serialization/bin/Debug/netcoreapp3.1/Day9_Serialization.runtimeconfig.json
+/Users/taj/Documents/Bootcamp/CSharp/src/Day9_Serialization/bin/Debug/netcoreapp3.1/Day9_Serialization.runtimeconfig.dev.json
+/Users/taj/Documents/Bootcamp/CSharp/src/Day9_Serialization/bin/Debug/netcoreapp3.1/Day9_Serialization.dll
+/Users/taj/Documents/Bootcamp/CSharp/src/Day9_Serialization/bin/Debug/netcoreapp3.1/Day9_Serialization.pdb
+/Users/taj/Documents/Bootcamp/CSharp/src/Day9_Serialization/obj/Debug/netcoreapp3.1/Day9_Serialization.csprojAssemblyReference.cache
+/Users/taj/Documents/Bootcamp/CSharp/src/Day9_Serialization/obj/Debug/netcoreapp3.1/Day9_Serialization.csproj.CoreCompileInputs.cache
+/Users/taj/Documents/Bootcamp/CSharp/src/Day9_Serialization/obj/Debug/netcoreapp3.1/Day9_Serialization.AssemblyInfoInputs.cache
+/Users/taj/Documents/Bootcamp/CSharp/src/Day9_Serialization/obj/Debug/netcoreapp3.1/Day9_Serialization.AssemblyInfo.cs
+/Users/taj/Documents/Bootcamp/CSharp/src/Day9_Serialization/obj/Debug/netcoreapp3.1/Day9_Serialization.dll
+/Users/taj/Documents/Bootcamp/CSharp/src/Day9_Serialization/obj/Debug/netcoreapp3.1/Day9_Serialization.pdb
+/Users/taj/Documents/Bootcamp/CSharp/src/Day9_Serialization/obj/Debug/netcoreapp3.1/Day9_Serialization.genruntimeconfig.cache
